@@ -33,6 +33,7 @@
 		"openai": "^4.100.0",
 		"prisma": "^6.8.2",
 		"react": "^18.2.0",
+		"react-chatbot-kit": "^2.2.2",
 		"react-dom": "^18.2.0",
 		"react-dropzone": "^14.3.8",
 		"sharp": "^0.34.2",
